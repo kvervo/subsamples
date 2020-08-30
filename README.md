@@ -14,8 +14,8 @@ The EBU Subtitling Data Exchange Format (EBU-STL) is a legacy, out-of-band capti
 Official usage data is unavailable, but most caption authoring tools support EBU-STL. EBU-STL files typically have the extension ".STL." The format describes captions using a fixed character set. The format stores a sequence of Text and Timing Information (TTI) blocks. Each TTI block specifies a row of characters, an associated time code, and other metadata. The character codes used for the captions may optionally match the Teletext codes.
 
 ### References
-* [EBU-3264|https://tech.ebu.ch/docs/tech/tech3264.pdf] is the specification of EBU-STL.
-* [EBU-3360|https://tech.ebu.ch/docs/tech/tech3360.pdf] provides information about strategies that may be used to convert EBU-STL to EBU-TT
+* [EBU-3264](https://tech.ebu.ch/docs/tech/tech3264.pdf) is the specification of EBU-STL.
+* [EBU-3360](https://tech.ebu.ch/docs/tech/tech3360.pdf) provides information about strategies that may be used to convert EBU-STL to EBU-TT
 
 ### Test File
 Sample file contains the following characteristics in order or appearance:
